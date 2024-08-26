@@ -1,5 +1,5 @@
 <!-- Projeto Finalizado -->
-# 🎨 Mudança de Cor de Fundo
+# 🎨 Background Color Changer
 
 <p align="center">
   <!-- Contador de linguagens do GitHub -->
