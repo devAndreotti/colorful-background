@@ -64,4 +64,4 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## 📌 Nota
 
-Este projeto é para fins educacionais e demonstra a manipulação dinâmica de estilos com CSS e JavaScript. Sinta-se livre para explorar, modificar e adaptar conforme necessário.
+Este projeto é para fins educacionais. Sinta-se livre para explorar, modificar e adaptar conforme necessário.
