@@ -48,18 +48,9 @@ Você pode visualizar o projeto online através deste [link](https://devandreott
 Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 1. Faça um fork do projeto.
-2. Crie uma nova branch para sua feature:
-   ```bash
-   git checkout -b feature/nome-feature
-   ```
-3. Commit suas mudanças:
-   ```bash
-   git commit -m 'Adiciona nova feature'
-   ```
-4. Envie para a branch:
-   ```bash
-   git push origin feature/nome-feature
-   ```
+2. Crie uma nova branch para sua feature `git checkout -b feature/nome-feature`.
+3. Commit suas mudanças `git commit -m 'Adiciona nova feature'`.
+4. Envie para a branch `git push origin feature/nome-feature`.
 5. Abra um Pull Request.
 
 ## 📌 Nota
