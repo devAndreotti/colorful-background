@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="./background.png" alt="Projeto Banner"/>
+  <img src="./background.png" alt="Mudança de Cor Banner"/>
 </div>
 
 ## 🎯 Objetivo do Projeto
