@@ -41,3 +41,8 @@ Contribuições são bem-vindas! Para contribuir, siga estas etapas:
 
 ## 📌 Nota
 Este projeto é para fins educacionais. Sinta-se livre para explorar, modificar e adaptar conforme necessário.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
