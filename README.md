@@ -45,4 +45,9 @@ Este projeto é para fins educacionais. Sinta-se livre para explorar, modificar 
 <br>
 
 ---
-<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
+
+<p align="center">
+  Desenvolvido por <a href="https://github.com/seuUsuario">Ricardo Andreotti Gonçalves</a> 🧑‍💻
+</p>
+
+---
